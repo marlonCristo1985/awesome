@@ -1,0 +1,1 @@
+adicionando texto para treinar git na pós de automação de testes
